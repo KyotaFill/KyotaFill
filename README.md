@@ -9,6 +9,8 @@
 
 <img width="100%" src="assets/kyotafill-hero.webp" alt="KyotaFill anime hero banner" />
 
+<img width="100%" src="assets/lightning-divider.svg" alt="" />
+
 ## About me
 
 <table>
@@ -39,6 +41,8 @@ Mindset         : Learn. Build. Measure. Improve.
   </tr>
 </table>
 
+<img width="100%" src="assets/lightning-divider.svg" alt="" />
+
 ## Languages and core tools
 
 <div align="center">
@@ -50,6 +54,8 @@ Mindset         : Learn. Build. Measure. Improve.
   <img src="https://img.shields.io/badge/Linux-171a2b?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
 </div>
 
+<img width="100%" src="assets/lightning-divider.svg" alt="" />
+
 ## AI and machine learning
 
 <div align="center">
@@ -60,6 +66,8 @@ Mindset         : Learn. Build. Measure. Improve.
   <img src="https://img.shields.io/badge/FastAPI-211832?style=for-the-badge&logo=fastapi&logoColor=00c7a9" alt="FastAPI" />
   <img src="https://img.shields.io/badge/MobileNetV2-211832?style=for-the-badge&logo=google&logoColor=8ab4f8" alt="MobileNetV2" />
 </div>
+
+<img width="100%" src="assets/lightning-divider.svg" alt="" />
 
 ## Web, desktop, and connected systems
 
@@ -75,6 +83,8 @@ Mindset         : Learn. Build. Measure. Improve.
   <img src="https://img.shields.io/badge/Node--RED-101322?style=for-the-badge&logo=nodered&logoColor=da2c38" alt="Node-RED" />
 </div>
 
+<img width="100%" src="assets/lightning-divider.svg" alt="" />
+
 ## My Grinds
 
 <div align="center">
@@ -89,12 +99,16 @@ Mindset         : Learn. Build. Measure. Improve.
   <img width="100%" src="assets/metrics-dashboard.svg" alt="KyotaFill GitHub activity and anime favorites dashboard" />
 </div>
 
+<img width="100%" src="assets/lightning-divider.svg" alt="" />
+
 ## Current quest
 
 - Improving model evaluation and the reliability of computer-vision pipelines.
 - Designing cleaner APIs, deployment workflows, and MLOps foundations.
 - Connecting AI applications with automation and embedded systems.
 - Building complete products instead of isolated technical demos.
+
+<img width="100%" src="assets/lightning-divider.svg" alt="" />
 
 ## Statistics
 
