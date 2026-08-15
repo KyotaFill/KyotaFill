@@ -79,22 +79,22 @@ Mindset         : Learn. Build. Measure. Improve.
 
 <div align="center">
   <a href="https://github.com/KyotaFill/FoodVision-Ai">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KyotaFill&repo=FoodVision-Ai&theme=tokyonight&hide_border=true" alt="FoodVision AI repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/FoodVision-Ai" alt="FoodVision AI repository" />
   </a>
   <a href="https://github.com/KyotaFill/SmartCampus-Service-Desk">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KyotaFill&repo=SmartCampus-Service-Desk&theme=tokyonight&hide_border=true" alt="SmartCampus Service Desk repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/SmartCampus-Service-Desk" alt="SmartCampus Service Desk repository" />
   </a>
   <a href="https://github.com/KyotaFill/Final_ShapeVision">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KyotaFill&repo=Final_ShapeVision&theme=tokyonight&hide_border=true" alt="ShapeVision repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/Final_ShapeVision" alt="ShapeVision repository" />
   </a>
   <a href="https://github.com/KyotaFill/Terminal_setup">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KyotaFill&repo=Terminal_setup&theme=tokyonight&hide_border=true" alt="SpaceVibe Deck for Linux repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/Terminal_setup" alt="SpaceVibe Deck for Linux repository" />
   </a>
   <a href="https://github.com/KyotaFill/Anime-Lecture-Studio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KyotaFill&repo=Anime-Lecture-Studio&theme=tokyonight&hide_border=true" alt="Anime Lecture Studio repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/Anime-Lecture-Studio" alt="Anime Lecture Studio repository" />
   </a>
   <a href="https://github.com/KyotaFill/Smart-Home-IoT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KyotaFill&repo=Smart-Home-IoT&theme=tokyonight&hide_border=true" alt="Smart Home IoT repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/Smart-Home-IoT" alt="Smart Home IoT repository" />
   </a>
 </div>
 
@@ -108,7 +108,6 @@ Mindset         : Learn. Build. Measure. Improve.
 ## Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KyotaFill&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="KyotaFill GitHub statistics" />
   <img height="180" src="https://streak-stats.demolab.com?user=KyotaFill&theme=tokyonight&hide_border=true" alt="KyotaFill contribution streak" />
 </div>
 
