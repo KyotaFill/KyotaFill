@@ -79,22 +79,22 @@ Mindset         : Learn. Build. Measure. Improve.
 
 <div align="center">
   <a href="https://github.com/KyotaFill/FoodVision-Ai">
-    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/FoodVision-Ai" alt="FoodVision AI repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/KyotaFill/FoodVision-Ai" alt="FoodVision AI repository" />
   </a>
   <a href="https://github.com/KyotaFill/SmartCampus-Service-Desk">
-    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/SmartCampus-Service-Desk" alt="SmartCampus Service Desk repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/KyotaFill/SmartCampus-Service-Desk" alt="SmartCampus Service Desk repository" />
   </a>
   <a href="https://github.com/KyotaFill/Final_ShapeVision">
-    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/Final_ShapeVision" alt="ShapeVision repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/KyotaFill/Final_ShapeVision" alt="ShapeVision repository" />
   </a>
   <a href="https://github.com/KyotaFill/Terminal_setup">
-    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/Terminal_setup" alt="SpaceVibe Deck for Linux repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/KyotaFill/Terminal_setup" alt="SpaceVibe Deck for Linux repository" />
   </a>
   <a href="https://github.com/KyotaFill/Anime-Lecture-Studio">
-    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/Anime-Lecture-Studio" alt="Anime Lecture Studio repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/KyotaFill/Anime-Lecture-Studio" alt="Anime Lecture Studio repository" />
   </a>
   <a href="https://github.com/KyotaFill/Smart-Home-IoT">
-    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/Smart-Home-IoT" alt="Smart Home IoT repository" />
+    <img width="49%" src="https://opengraph.githubassets.com/kyotafill-profile/KyotaFill/Smart-Home-IoT" alt="Smart Home IoT repository" />
   </a>
 </div>
 
