@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Welcome to KyotaFill's Lab</title>
+  <desc id="desc">Animated purple, blue, and red profile header.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.45" stop-color="#3b1c72"/>
+      <stop offset="0.75" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="150" fill="url(#sky)"/>
+  <path d="M0 112 C170 147 330 78 510 113 S850 160 1200 98 V150 H0Z" fill="#0d1117" fill-opacity=".54">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 112 C170 147 330 78 510 113 S850 160 1200 98 V150 H0Z;M0 99 C190 151 350 91 530 106 S870 143 1200 111 V150 H0Z;M0 112 C170 147 330 78 510 113 S850 160 1200 98 V150 H0Z"/>
+  </path>
+  <g fill="#fff" filter="url(#glow)">
+    <circle cx="128" cy="38" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="284" cy="78" r="1.6"><animate attributeName="opacity" values="1;.15;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="916" cy="42" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="87" r="1.7"><animate attributeName="opacity" values="1;.1;1" dur="2.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="600" y="83" fill="#fff" stroke="#6e40c9" stroke-width="1" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="42" font-weight="700" filter="url(#glow)">WELCOME TO KYOTAFILL'S LAB</text>
+</svg>
