@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&text=WELCOME%20TO%20KYOTAFILL%27S%20LAB&section=header&animation=twinkling&fontAlign=50&fontColor=ffffff&fontSize=42&stroke=6e40c9&strokeWidth=1&color=0:0d1117,45:3b1c72,75:7c3aed,100:ef4444" alt="Welcome to KyotaFill's Lab" />
+  <img width="100%" src="assets/welcome-header.svg" alt="Welcome to KyotaFill's Lab" />
 
   <img src="https://komarev.com/ghpvc/?username=KyotaFill&label=PROFILE%20VIEWS&color=6f42c1&style=flat-square" alt="Profile views" />
 
@@ -13,28 +13,37 @@
 
 ## About me
 
-<table>
+<table width="100%">
   <tr>
-    <td width="34%" align="center">
-      <img width="310" src="assets/kyotafill-character.webp" alt="Anime character with a glowing sword" />
+    <td align="center">
+      <img width="250" src="assets/kyotafill-character.webp" alt="Anime character with a glowing sword" />
     </td>
-    <td width="66%">
+  </tr>
+  <tr>
+    <td>
       <pre>
 Profile Version : 4.0
 Alias           : KyotaFill
 Name            : Trần Trung Kiên
 Role            : AI/ML and IoT Student
-Education       : University of Economics Ho Chi Minh City
+Education       : University of Economics
+                  Ho Chi Minh City
 Location        : Ho Chi Minh City, Vietnam
 
 Main focus:
-  - Computer vision and applied machine learning
-  - Full-stack products powered by AI services
-  - ESP32, MQTT, automation, and connected devices
-  - Developer tools for practical workflows
+  - Computer vision and applied
+    machine learning
+  - Full-stack products powered by
+    AI services
+  - ESP32, MQTT, automation, and
+    connected devices
+  - Developer tools for practical
+    workflows
 
-Languages       : Python, TypeScript, JavaScript, C++
-Current mission : Turn experiments into usable systems
+Languages       : Python, TypeScript,
+                  JavaScript, C++
+Current mission : Turn experiments into
+                  usable systems
 Mindset         : Learn. Build. Measure. Improve.
       </pre>
     </td>
@@ -121,13 +130,13 @@ Mindset         : Learn. Build. Measure. Improve.
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=AI%2FML+%26+IoT+Student;Computer+Vision+Builder;Turning+Models+into+Products;Learning.+Building.+Improving." alt="KyotaFill typing introduction" />
+  <img width="100%" src="assets/typing-intro.svg" alt="KyotaFill typing introduction" />
 </div>
 
 <div align="center">
   <img height="250" src="https://camo.githubusercontent.com/c2a7d5625e4509474e957c215ba3b6a081199eb6f27d0cd7954a4105b0fb71ae/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457863327872645756305a58707664574978616d637865584a36596e686b59573933596d6c7859326f324d47646c63324e36616e633059695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5659305732657a6d3553386269537547616f2f67697068792e676966" alt="Anime farewell animation" />
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&text=SEE%20YOU%20IN%20THE%20NEXT%20BUILD&section=footer&animation=twinkling&fontAlign=50&fontColor=ffffff&fontSize=30&stroke=6e40c9&strokeWidth=1&color=0:0d1117,45:3b1c72,75:7c3aed,100:ef4444" alt="See you in the next build" />
+  <img width="100%" src="assets/footer-banner.svg" alt="See you in the next build" />
 
   <sub>Visual artwork supplied by the profile owner for personal profile presentation. Rights remain with the respective creators and owners.</sub><br />
   <sub>Layout inspired by <a href="https://github.com/debasishray16">debasishray16</a> and independently adapted for KyotaFill.</sub>
