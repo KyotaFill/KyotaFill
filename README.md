@@ -7,16 +7,16 @@
   <p>AI, machine learning, computer vision, and connected systems.</p>
 </div>
 
-<img width="100%" src="assets/kyotafill-hero.webp" alt="KyotaFill anime hero banner" />
+<img width="100%" src="https://kiendevst1.io.vn/assets/profile/kyotafill-hero.webp" alt="KyotaFill anime hero banner" />
 
-<img width="100%" src="assets/lightning-divider.svg" alt="" />
+<img width="100%" src="https://kiendevst1.io.vn/assets/profile/lightning-divider.svg" alt="" />
 
 ## About me
 
 <table>
   <tr>
     <td width="34%" align="center">
-      <img width="310" src="assets/kyotafill-character.webp" alt="Anime character with a glowing sword" />
+      <img width="310" src="https://kiendevst1.io.vn/assets/profile/kyotafill-character.webp" alt="Anime character with a glowing sword" />
     </td>
     <td width="66%">
       <pre>
@@ -41,7 +41,7 @@ Mindset         : Learn. Build. Measure. Improve.
   </tr>
 </table>
 
-<img width="100%" src="assets/lightning-divider.svg" alt="" />
+<img width="100%" src="https://kiendevst1.io.vn/assets/profile/lightning-divider.svg" alt="" />
 
 ## Languages and core tools
 
@@ -54,7 +54,7 @@ Mindset         : Learn. Build. Measure. Improve.
   <img src="https://img.shields.io/badge/Linux-171a2b?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
 </div>
 
-<img width="100%" src="assets/lightning-divider.svg" alt="" />
+<img width="100%" src="https://kiendevst1.io.vn/assets/profile/lightning-divider.svg" alt="" />
 
 ## AI and machine learning
 
@@ -67,7 +67,7 @@ Mindset         : Learn. Build. Measure. Improve.
   <img src="https://img.shields.io/badge/MobileNetV2-211832?style=for-the-badge&logo=google&logoColor=8ab4f8" alt="MobileNetV2" />
 </div>
 
-<img width="100%" src="assets/lightning-divider.svg" alt="" />
+<img width="100%" src="https://kiendevst1.io.vn/assets/profile/lightning-divider.svg" alt="" />
 
 ## Web, desktop, and connected systems
 
@@ -83,7 +83,7 @@ Mindset         : Learn. Build. Measure. Improve.
   <img src="https://img.shields.io/badge/Node--RED-101322?style=for-the-badge&logo=nodered&logoColor=da2c38" alt="Node-RED" />
 </div>
 
-<img width="100%" src="assets/lightning-divider.svg" alt="" />
+<img width="100%" src="https://kiendevst1.io.vn/assets/profile/lightning-divider.svg" alt="" />
 
 ## My Grinds
 
@@ -96,10 +96,10 @@ Mindset         : Learn. Build. Measure. Improve.
 <br />
 
 <div align="center">
-  <img width="100%" src="assets/metrics-dashboard.svg" alt="KyotaFill GitHub activity and anime favorites dashboard" />
+  <img width="100%" src="https://kiendevst1.io.vn/assets/profile/metrics-dashboard.svg" alt="KyotaFill GitHub activity and anime favorites dashboard" />
 </div>
 
-<img width="100%" src="assets/lightning-divider.svg" alt="" />
+<img width="100%" src="https://kiendevst1.io.vn/assets/profile/lightning-divider.svg" alt="" />
 
 ## Current quest
 
@@ -108,7 +108,7 @@ Mindset         : Learn. Build. Measure. Improve.
 - Connecting AI applications with automation and embedded systems.
 - Building complete products instead of isolated technical demos.
 
-<img width="100%" src="assets/lightning-divider.svg" alt="" />
+<img width="100%" src="https://kiendevst1.io.vn/assets/profile/lightning-divider.svg" alt="" />
 
 ## Statistics
 
